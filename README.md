@@ -7,6 +7,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PestoVerde322&show_icons=true&locale=en&no-bg=true&theme=monokai" alt="PestoVerde322" /></p>
 
-[Beestation](https://github.com/BeeStation/BeeStation-Hornet)
-
 I finally have a landing pages :D
